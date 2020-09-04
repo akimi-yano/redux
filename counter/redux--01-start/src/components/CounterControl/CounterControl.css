@@ -1,0 +1,22 @@
+.CounterControl {
+    width: 140px;
+    padding: 65px 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    margin: 15px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    display: inline-block;
+    font-size:x-small;
+    background-color: red;
+    
+}
+
+.CounterControl:hover,
+.CounterControl:active {
+    background-color:grey;
+}
